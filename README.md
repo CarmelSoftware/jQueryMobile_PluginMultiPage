@@ -1,4 +1,4 @@
-# jQueryMobile_PluginMultiPage
+# jQuery Mobile Plugin MultiPage
 ##A jQuery Mobile Plugin for displaying Pages on runtime, Ajax loaded in JSON format
 ####By Carmel Schvartzman
 
